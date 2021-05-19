@@ -7,7 +7,7 @@
 
 int main(void) {
   int pattern=get_int("Enter type of pattern (1 or 2) ");
-  int n=get_int("Number of rows ");
+  int n=get_int("Number of rows");
   int m=1;
   
   if (pattern==1) {
